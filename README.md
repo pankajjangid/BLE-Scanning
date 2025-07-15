@@ -17,6 +17,6 @@ This Android app scans for nearby **Bluetooth Low Energy (BLE)** devices and dis
 
 ## 🎥 Demo
 
-<video src="Screen_Recording_BLE Scanning.mp4" controls autoplay loop width="600"></video>
+▶️ [Watch Demo Video](https://github.com/pankajjangid/BLE-Scanning/raw/master/Screen_Recording_BLE%20Scanning.mp4)
 
 
